@@ -120,12 +120,5 @@ If you encounter issues with dependencies, try running the following command:
 npm install --legacy-peer-deps
 ```
 
-### Common Errors
 
-- **Port in Use**: If the default port `5173` is in use, Vite will try another port.
-- **Module Not Found**: Ensure all dependencies are installed. If you see errors like `module not found`, double-check your `package.json` and run `npm install` again.
-
-## Contribution
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
